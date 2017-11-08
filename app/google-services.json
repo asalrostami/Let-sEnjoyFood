@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "741461542098",
+    "firebase_url": "https://let-s-order-food.firebaseio.com",
+    "project_id": "let-s-order-food",
+    "storage_bucket": "let-s-order-food.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:741461542098:android:d91269296b06de2c",
+        "android_client_info": {
+          "package_name": "com.example.asal.letsorderfood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "741461542098-3ebfqt4l6a6f30kqf7g93rleingjeu2m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDy2CIJS8sX_OPGcz734MSmqTiSh5rQC5Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
