@@ -20,9 +20,7 @@
         android:layout_marginLeft="44dp"
         android:layout_marginStart="44dp"
         android:layout_marginTop="20dp"
-        android:textSize="20sp"
-        android:textStyle="bold"
-        android:textColor="#6415ec"
+        style="@style/titleText"
         android:alpha="1"
         android:text="Email:"/>
 
@@ -40,14 +38,11 @@
         android:layout_alignStart="@+id/textView"/>
 
     <Button
-        android:id="@+id/button"
+        android:id="@+id/btnRegisterR"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Register"
-        android:textSize="20sp"
-        android:background="@null"
-        android:textColor="#6415ec"
-        android:textStyle="bold|italic"
+        style="@style/button"
         android:layout_marginTop="138dp"
         android:layout_below="@+id/editTextEmailR"
         android:layout_centerHorizontal="true"/>
@@ -60,9 +55,7 @@
         android:layout_alignStart="@+id/editTextEmailR"
         android:layout_below="@+id/editTextEmailR"
         android:layout_marginTop="35dp"
-        android:textSize="20sp"
-        android:textStyle="bold"
-        android:textColor="#6415ec"
+        style="@style/titleText"
         android:alpha="1"
         android:text="Password:"/>
 

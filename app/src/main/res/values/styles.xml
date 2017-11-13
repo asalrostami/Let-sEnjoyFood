@@ -7,5 +7,29 @@
         <item name="colorPrimaryDark">@color/black</item>
         <item name="colorAccent">@color/colorAccent</item>
     </style>
+    <style name="titleText">
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">#6415ec</item>
+        <item name="android:textSize">20sp</item>
+
+    </style>
+    <style name="titleTextLogin">
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">#f51504</item>
+        <item name="android:textSize">20sp</item>
+
+    </style>
+    <style name="button">
+        <item name="android:textSize">20sp</item>
+        <item name="android:background">@null</item>
+        <item name="android:textColor">#6415ec</item>
+        <item name="android:textStyle">bold|italic</item>
+    </style>
+    <style name="buttonLogin">
+        <item name="android:textSize">20sp</item>
+        <item name="android:background">@null</item>
+        <item name="android:textColor">#f51504</item>
+        <item name="android:textStyle">bold|italic</item>
+    </style>
 
 </resources>
