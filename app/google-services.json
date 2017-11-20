@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "760311714447",
+    "firebase_url": "https://letsenjoyfood-fed71.firebaseio.com",
+    "project_id": "letsenjoyfood-fed71",
+    "storage_bucket": "letsenjoyfood-fed71.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:760311714447:android:58c48e1d594dcb41",
+        "android_client_info": {
+          "package_name": "com.example.asal.letsenjoyfood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "760311714447-9243i03n6fig4pk0m68m48bfr24li2sa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyZ_KPFf_-PdtylpiN4IJ8TWC7W4ZhNgM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
